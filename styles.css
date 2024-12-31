@@ -1,0 +1,31 @@
+body {
+  background-image: url(https://img.freepik.com/free-vector/abstract-blue-circle-black-background-technology_1142-12714.jpg);
+  background-size: 100%;
+  opacity: 100%;
+  background-color: none;
+  background-blend-mode: hard-light;
+  backface-visibility: visible;
+  color: aliceblue;
+  text-align: center;
+  font-family: "Poppins", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a{
+    font-weight: 300;
+    color: #23daeb;
+}
+footer{
+    font-weight: 200;
+}
+
+footer a{
+    opacity:85%;
+    text-decoration: none;
+    transform: all 150ms ease-in-out;
+}
+footer a:hover{
+    opacity: 100%;
+    text-decoration: underline ;
+}
