@@ -13,7 +13,7 @@ body {
 .container {
   display: block;
   margin: 70px auto;
-  max-width: 300px;
+  max-width: 35%;
   padding: 0px 30px 10px;
   background-color: rgba(0, 255, 255, 0.02);
   border: 1px solid rgba(0, 255, 255, 0.5);
