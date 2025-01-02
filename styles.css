@@ -1,5 +1,5 @@
 body {
-  background-image:url(img/image.png);
+  background-image: url(img/image.png);
   background-size: 100%;
   opacity: 100%;
   /* background-color: none */
@@ -87,7 +87,7 @@ select {
   font-size: 25px;
 }
 
-.meridian {
+span {
   font-weight: 200;
   font-size: 15px;
   color: rgba(0, 255, 255, 0.5);
