@@ -4,7 +4,6 @@ body {
   opacity: 100%;
   /* background-color: none */
   background-blend-mode: hard-light;
-  backface-visibility: visible;
   color: aliceblue;
   text-align: center;
   font-family: "Poppins", serif;
