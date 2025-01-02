@@ -44,6 +44,7 @@ select {
   color: aliceblue;
 }
 
+
 .border-line {
   box-shadow: 0px 1px 5px 0px;
   opacity: 30%;
@@ -57,7 +58,6 @@ select {
   justify-content: space-between;
   padding: 3px 10px;
   max-width: 90%;
-  border-radius: 10px;
   /* background-color: rgb(255, 255, 254, 0.01) */
   margin: 1px auto;
 }
