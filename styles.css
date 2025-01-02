@@ -98,6 +98,18 @@ a {
   font-weight: 300;
   color: rgb(35, 218, 235);
 }
+
+.back-home{
+  transition: all 200ms ease-in-out;
+  text-decoration: 0.9px rgb(35, 218, 235) underline;
+  opacity: 85%;
+}
+
+.back-home:hover{
+  opacity: 100%;
+  text-decoration: 0.9px rgb(35, 218, 235, 0.8) underline;
+
+}
 footer {
   font-size: 12px;
   font-weight: 100;

@@ -84,7 +84,10 @@ function showCity(event) {
                 </div>
                 <div class="city-time">${cityTime}</div>
             </div>
-            <hr class="border-line">`;
+            <hr class="border-line">
+            <br/>
+            <a href="/" alt="link to the home-page" class="back-home" >Back to All Cities</a>
+            `;
     }
   }
 }
